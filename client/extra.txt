@@ -1,0 +1,8 @@
+1. npm create vite@latest ./
+
+2. npm install react-router-dom axios socket.io-client
+
+3. npm install redux react-redux @reduxjs/toolkit
+
+4. npm install tailwindcss postcss autoprefixer
+   npx tailwindcss init
